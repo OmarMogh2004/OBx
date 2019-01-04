@@ -46,7 +46,7 @@ client.channels.get("529241607573340170").setName("[ Welcome To OBx Shop ]");
 });
 
 const token = pocess.env.TOKEN;
-bot.login();
+bot.login(NTMwNzAwNTY5NTY5MTMyNTQ0.DxDNLg.nvCgvnPaliN1ClcXtLKvoUE55pU);
 
     
     
